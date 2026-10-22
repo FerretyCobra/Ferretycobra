@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/om-lokhande"><img src="https://img.shields.io/badge/LinkedIn-om--lokhande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/om-s-l/"><img src="https://img.shields.io/badge/LinkedIn-om--s--l-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Omlokhande04@gmail.com"><img src="https://img.shields.io/badge/Email-Omlokhande04%40gmail.com-ff3d6e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Mumbai-India-ffd23f?style=for-the-badge&logo=googlemaps&logoColor=black" />
 </p>
