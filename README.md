@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:140a2e,55:ff3d6e,100:ffd23f&text=OM%20LOKHANDE&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Software%20Developer%20%40%20FrostFire%20Tronics%20%C2%B7%20Founder%2C%20Fundless%20Studio&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Om Lokhande" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:140a2e,55:ff3d6e,100:ffd23f&text=OM%20LOKHANDE&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Software%20Developer%20%40%20FrostFire%20Tronics&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Om Lokhande" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22E1FF&center=true&vCenter=true&width=620&lines=Flutter+apps+for+society+gates+and+shop+counters;Python+%26+Java+backends+that+keep+working+offline;A+one-thumb+highway+racer+in+Unity" alt="What I build" />
