@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="At a glance">
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#140a2e"/>
+  <g font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">
+    <text x="25" y="35" font-size="18" font-weight="600" fill="#ffd23f">At a glance</text>
+    <g font-size="14" fill="#ffffff">
+      <circle cx="31" cy="64" r="4" fill="#ff3d6e"/><text x="45" y="69"><tspan font-weight="700">Software Developer</tspan> at FrostFire Tronics</text>
+      <circle cx="31" cy="90" r="4" fill="#ff3d6e"/><text x="45" y="95"><tspan font-weight="700">6 products</tspan> I build and maintain at work</text>
+      <circle cx="31" cy="116" r="4" fill="#ff3d6e"/><text x="45" y="121"><tspan font-weight="700">1 app</tspan> on Google Play · <tspan font-weight="700">1 game</tspan> entering testing</text>
+      <circle cx="31" cy="142" r="4" fill="#ff3d6e"/><text x="45" y="147"><tspan font-weight="700">Sole developer</tspan> of an ICMR hospital-study platform</text>
+      <circle cx="31" cy="168" r="4" fill="#ff3d6e"/><text x="45" y="173"><tspan font-weight="700">1 copyright</tspan> granted · NoiseLogger</text>
+    </g>
+  </g>
+</svg>

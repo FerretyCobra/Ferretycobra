@@ -12,7 +12,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=FerretyCobra&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=140a2e&title_color=ffd23f&icon_color=ff3d6e&text_color=ffffff" />
-  <img height="165" src="https://streak-stats.demolab.com?user=FerretyCobra&hide_border=true&background=140a2e&ring=ff3d6e&fire=ffd23f&currStreakLabel=22e1ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=c8b6e8" />
+  <img height="165" src="assets/at-a-glance.svg" alt="At a glance" />
 </p>
 
 ---
