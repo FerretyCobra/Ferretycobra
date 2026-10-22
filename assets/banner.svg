@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Om Lokhande — software for gates, counters, wards and highways">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#140a2e"/>
+      <stop offset="1" stop-color="#3d1259"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd23f"/>
+      <stop offset="0.55" stop-color="#ff8a3d"/>
+      <stop offset="1" stop-color="#ff3d6e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.86" cy="0" r="0.6">
+      <stop offset="0" stop-color="#ff6a3d" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ff6a3d" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="sunclip"><rect x="0" y="0" width="1200" height="230"/></clipPath>
+  </defs>
+  <rect width="1200" height="340" fill="url(#sky)"/>
+  <mask id="stripes"><rect width="1200" height="340" fill="#fff"/><rect x="0" y="170" width="1200" height="6" fill="#000"/><rect x="0" y="188" width="1200" height="8" fill="#000"/><rect x="0" y="207" width="1200" height="10" fill="#000"/></mask>
+  <g clip-path="url(#sunclip)"><circle cx="1030" cy="230" r="120" fill="url(#sun)" mask="url(#stripes)"/></g>
+  <rect y="230" width="1200" height="110" fill="#0b0b1a"/>
+  <rect y="230" width="1200" height="110" fill="url(#glow)"/>
+  <g stroke="#22e1ff" stroke-width="2" fill="none" opacity="0.9">
+    <line x1="0" y1="230" x2="1200" y2="230" stroke-width="3"/>
+    <line x1="1022" y1="230" x2="740" y2="340"/>
+    <line x1="1038" y1="230" x2="1320" y2="340"/>
+    <line x1="1015" y1="230" x2="520" y2="340" opacity="0.35"/>
+    <line x1="1045" y1="230" x2="1540" y2="340" opacity="0.35"/>
+  </g>
+  <g fill="#ffffff">
+    <rect x="1028" y="246" width="4" height="10"/>
+    <rect x="1027" y="270" width="6" height="16"/>
+    <rect x="1026" y="304" width="8" height="26"/>
+  </g>
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    <text x="64" y="118" font-size="64" font-weight="800" fill="#ffffff" letter-spacing="2">OM LOKHANDE</text>
+    <text x="66" y="162" font-size="22" font-weight="600" fill="#22e1ff" letter-spacing="1">Software Developer @ FrostFire Tronics · Founder, Fundless Studio</text>
+    <text x="66" y="200" font-size="19" fill="#d9c8f5">Software for gates, counters, wards — and one long highway.</text>
+  </g>
+</svg>
