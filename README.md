@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FerretyCobra&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=140a2e&title_color=ffd23f&icon_color=ff3d6e&text_color=ffffff" />
   <img height="165" src="assets/at-a-glance.svg" alt="At a glance" />
 </p>
 
@@ -58,16 +57,16 @@ An endless, one-thumb highway racer for Android. Weave through traffic at dusk; 
       <a href="https://github.com/FerretyCobra/InternetSeparator/releases/latest"><img src="https://img.shields.io/badge/Download-Windows-22e1ff?style=flat-square&logo=windows&logoColor=black" /></a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/FerretyCobra/MyThermalPrint"><img src="assets/card-ff-printflow.jpg" alt="FF PrintFlow" /></a>
-      <h3><a href="https://github.com/FerretyCobra/MyThermalPrint">FF PrintFlow</a></h3>
+      <img src="assets/card-ff-printflow.jpg" alt="FF PrintFlow" />
+      <h3>FF PrintFlow</h3>
       Print anything from Android to a Bluetooth thermal printer. Three dithering modes, server-side licensing.<br/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/Google_Play-public_beta-34A853?style=flat-square&logo=googleplay&logoColor=white" />
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/FerretyCobra/Noise_Logger"><img src="assets/card-noiselogger.jpg" alt="NoiseLogger" /></a>
-      <h3><a href="https://github.com/FerretyCobra/Noise_Logger">NoiseLogger</a></h3>
+      <img src="assets/card-noiselogger.jpg" alt="NoiseLogger" />
+      <h3>NoiseLogger</h3>
       A crowdsourced noise map: live dB meter, 87 dB safety alerts and hotspot detection.<br/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
